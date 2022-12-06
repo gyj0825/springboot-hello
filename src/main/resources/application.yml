@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: springboot-hello
+server:
+  port: 8081
+logging:
+  config: classpath:log4j2.xml
